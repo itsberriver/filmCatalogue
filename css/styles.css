@@ -4,6 +4,7 @@
     font-weight: bold;
     margin:0;
     padding: 0;
+    color: white;
 }
 
 .catalogueText{
@@ -12,7 +13,7 @@
     display: flex;
     justify-content: flex-start;
     padding: 4rem;
-    color: white;
+    
 
 }
 
@@ -50,7 +51,6 @@ h2{
 }
 
 .button{
-    color: white;
     cursor: none;
     text-decoration: none;
     margin-top: 1rem;
@@ -64,7 +64,7 @@ h2{
 }
     
 .titleName, .directorName,.category,.moreInfo {
-    color: #FFFFFF;
+
     display: flex;
     justify-content: center;
     
@@ -127,7 +127,6 @@ h2{
     display: flex;
     justify-content: space-evenly;
     padding-left: 60%;
-    color: #FFFFFF;
     margin-bottom: 1rem;
 }
 
@@ -139,10 +138,34 @@ h2{
     align-items: stretch;
 }
 
+.footerText{
+    display: flex;
+    justify-content: space-around;
+    padding: 4rem;
+    font-size: 0.8rem;
 
+}
 
+#socialMedia{
+    size: 8rem;
+    padding: 1rem;
+}
 
+.aboutUs, .contact{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 10vw;
+        max-width: 70%;
+}
 
+.aboutUs{
+    text-align: left;
+    padding-right: 2rem;
+}
 
-
+.contact{
+    text-align: right;
+    
+}
 
