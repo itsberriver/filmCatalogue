@@ -7,6 +7,8 @@
     color: white;
 }
 
+/*header*/
+
 .catalogueText{
     
     position: relative;
@@ -18,11 +20,12 @@
 }
 
 h2{
-    font-size: 5rem;
+    font-size: 6rem;
     display: flex;
     justify-content: flex-start;
     background-color: transparent;
     font-family: 'KAGE-Freebies', sans-serif;
+    padding-left: 3rem;
 }
 
 .top{
@@ -41,13 +44,22 @@ h2{
     padding-bottom: 3rem;
 }
 
+.headerText {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 60%;
+    margin-bottom: 1rem;
+}
 
+/*main*/
 
-/*separacion*/
 #moviesSection{
     display: flex;
     flex-direction: row;
     margin: 0;
+    flex-wrap: wrap;
+    padding-left: 4rem;
+    padding-top: 4rem;
 }
 
 .button{
@@ -58,9 +70,11 @@ h2{
 
 .filmBox{
     width: 296px;
-    height: 584px;
+    height: 530px;
     border: 2px solid rgba(242, 237, 237, 0.2);
     border-radius: 20px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
     
 .titleName, .directorName,.category,.moreInfo {
@@ -73,12 +87,13 @@ h2{
 .titleName{
     font-weight: 850;
     font-size: 2rem;
-    padding: 1rem;
+    padding: 2rem;
 }
 
 .category{
     font-weight: 300;
     font-size: small;
+    padding-top: 0.4rem;
 }
 
 .directorName{
@@ -92,8 +107,6 @@ h2{
 }
 
 .image{
-    padding-top: 2rem;
-    padding-bottom: 2rem;
     width: 213px;
     height: 314px;
     left: 114px;
@@ -123,13 +136,6 @@ h2{
     padding: 2rem;
 }
 
-.headerText {
-    display: flex;
-    justify-content: space-evenly;
-    padding-left: 60%;
-    margin-bottom: 1rem;
-}
-
 #filmBox p {
 
     display: flex;
@@ -138,17 +144,28 @@ h2{
     align-items: stretch;
 }
 
+
+/*footer*/
 .footerText{
     display: flex;
     justify-content: space-around;
-    padding: 4rem;
-    font-size: 0.8rem;
+    padding-top: 4rem;
+    font-size: 0.9rem;
+    opacity: 90%;
+    margin-bottom: 4rem;
+    padding-left: 2rem;
 
 }
 
 #socialMedia{
     size: 8rem;
-    padding: 1rem;
+    height: 40px;
+    margin: 2rem;
+    margin-left: 0;
+    margin-top: 2rem;
+    display:flex;
+    
+    
 }
 
 .aboutUs, .contact{
@@ -156,16 +173,31 @@ h2{
     justify-content: space-around;
     align-items: center;
     padding-right: 10vw;
-        max-width: 70%;
-}
-
-.aboutUs{
-    text-align: left;
-    padding-right: 2rem;
-}
-
-.contact{
-    text-align: right;
+    max-width: 70%;
     
 }
 
+#aboutUs{
+    text-align: left;
+    max-width: 45%;
+}
+
+#contact{
+    text-align: left; 
+}
+
+#line{
+    width: 1382px;
+    height: 0px;
+    left: 73px;
+    top: 1797px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    justify-content: center;
+    margin-left: 5.9rem;
+    margin-top: 4rem;
+}
+
+#searchButton{
+    
+}
