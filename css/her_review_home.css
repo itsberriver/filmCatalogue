@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto', sans-serif;  
+    font-weight: bold;
+    color: #FFFFFF;
+
+}
+
+body{
+    background: url(/img/her_homepage_cover.jpeg); 
+    background-repeat: no-repeat;
+    background-size: 107%;
+}
+
+.movieInfo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    margin-top: 20rem;
+    
+}
+
+.movieTitle{
+    font-family: 'Calfine DEMO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20rem;
+    margin: 0;
+    padding-bottom: 0rem;
+}
+
+.descriptionText{
+    max-width: 50rem;
+    font-weight: 300;
+}
+
+
