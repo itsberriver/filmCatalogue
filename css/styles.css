@@ -56,10 +56,10 @@ h2{
 #moviesSection{
     display: flex;
     flex-direction: row;
-    margin: 0;
+    margin: auto;
     flex-wrap: wrap;
-    padding-left: 4rem;
-    padding-top: 4rem;
+    padding-left: 8rem;
+    padding-top: 6rem;
 }
 
 .button{
@@ -133,7 +133,7 @@ h2{
 }
 
 .card{
-    padding: 2rem;
+    padding: 1rem;
 }
 
 #filmBox p {
@@ -153,7 +153,8 @@ h2{
     font-size: 0.9rem;
     opacity: 90%;
     margin-bottom: 4rem;
-    padding-left: 2rem;
+    padding-left: 2.2rem;
+    font-weight: 300;
 
 }
 
@@ -184,6 +185,7 @@ h2{
 
 #contact{
     text-align: left; 
+    padding-left: 5rem;
 }
 
 #line{
