@@ -6,8 +6,10 @@
 }
 
 body{
-    background: url(/img/her_homepage_cover.jpeg); 
+    background-image: url(/img/her_homepage_cover.jpeg); 
+    position: absolute;
     background-repeat: no-repeat;
+    max-width: fit-content;
     background-size: 107%;
 }
 
@@ -15,7 +17,7 @@ body{
     display: flex;
     flex-direction: column;
     margin-left: 3rem;
-    margin-top: 20rem;
+    margin-top: 15rem;
     
 }
 
@@ -25,7 +27,7 @@ body{
     font-weight: 400;
     font-size: 20rem;
     margin: 0;
-    padding-bottom: 0rem;
+    padding-bottom: 0;
 }
 
 .descriptionText{
@@ -33,4 +35,13 @@ body{
     font-weight: 300;
 }
 
+.movieText{
+    display: flex;
+}
+
+h4{
+    padding-left: 27rem;
+    padding-top: 1rem;
+    font-weight: 700;
+}
 
