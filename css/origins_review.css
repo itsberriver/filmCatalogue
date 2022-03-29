@@ -6,12 +6,11 @@
 }
 
 body{
-    background-image: url(/img/her_homepage_cover.jpeg); 
+    background-image: url(/img/iOrigins_cover_homepage.jpg); 
     position: absolute;
     background-repeat: no-repeat;
     max-width: fit-content;
     background-size: 107%;
-
 }
 
 .movieInfo{
