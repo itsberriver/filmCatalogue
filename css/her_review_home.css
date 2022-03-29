@@ -39,9 +39,9 @@ body{
     display: flex;
 }
 
-h4{
-    padding-left: 27rem;
-    padding-top: 1rem;
-    font-weight: 700;
+#goBackArrow{
+    padding-left: 20rem;
+    padding-top: 5rem;
+    margin: 0; 
+    padding-right: 1rem;
 }
-
