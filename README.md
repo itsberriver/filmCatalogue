@@ -1,4 +1,4 @@
-# FILM CATALOGUE
+# 🎬 FILM CATALOGUE 🎬
 
 ## The project in use
 
