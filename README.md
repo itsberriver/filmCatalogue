@@ -39,6 +39,7 @@ If you cloned this repository, you can use LiveServer to see the app in the brow
 ## Future updates
 - Be able to create, edit and delete movies.
 - Be able to mark with starts how much you liked the movie.
+- Have a functional search button
 
 ## Developers
 - [Jessica berriver](https://github.com/itsberriver)
