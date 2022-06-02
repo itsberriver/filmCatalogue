@@ -44,7 +44,7 @@ If you didn't do it, don't worry! You can also see it without clone it! Just cli
 - Be able to mark with starts how much you liked the movie.
 
 ## Developers
-- [Jess Mejia](https://github.com/itsberriver)
+- [Jessica berriver](https://github.com/itsberriver)
 
 
 ## Acknowledgments
