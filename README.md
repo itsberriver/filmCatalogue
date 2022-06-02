@@ -1,5 +1,7 @@
 # FILM CATALOGUE
 
+## The project in use
+
 ## About the project
 Film Catalogue is part of one of the Factoria F5 Bootcamp projects. The main goals are: 
 - Be more familiar with HTML and CSS.
@@ -36,8 +38,6 @@ If you didn't do it, don't worry! You can also see it without clone it! Just cli
 - JSON
 - JavaScript
 
-
-## The project in use
 
 ## Future updates
 - Be able to create, edit and delete movies.
