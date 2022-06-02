@@ -23,9 +23,6 @@ If you want to see the project's code, you should first clone this repository, t
 
 ## Run the server
 If you cloned this repository, you can use LiveServer to see the app in the browser.
-If you didn't do it, don't worry! You can also see it without clone it! Just click the following link.:
-
- [https://github.com/itsberriver/stopwatch.git](https://itsberriver.github.io/stopwatch/)
 
 ## Tools that made possible this project
 - HTML
